@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/girithc/girithc/main/assets/animation.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/girithc/girithc/main/planet.gif" width="100%" />
 </p>
