@@ -1,6 +1,6 @@
 # Girith Choudhary
 
-ML Inference Engineer · MS Software Engineering (ML), SJSU '26 · Open to full time roles from Oct 2026
+ML Inference Engineer · MS Software Engineering (ML), SJSU '26 · 
 
 ## Featured
 
